@@ -18,24 +18,23 @@
           "key": "State",
           "fields": ["Area"]
         }
-      },
-      {"calculate": "datum.Area * 1", "as": "Area Burnt"} 
-    ],
-    "mark": {"type": "geoshape"},
-    "encoding": {
-      "color": {
-        "field": "Area Burnt",
-        "type": "quantitative",
-        "scale": {
-          "type": "linear", 
-          "domain": [0, 2, 5, 6, 20],  
-          "range": ["#ffffb2", "#ffb94c", "#ff7518", "#e63600", "#7f0000"]
-  
-        }
-      },
-      "tooltip": [
-        {"field": "properties.name", "type": "nominal", "title": "State"},
-        {"field": "Area Burnt", "type": "quantitative", "title": "Percentage of State Area Burnt"}
-      ]
-    }
+    },
+    {"calculate": "datum.Area * 1", "as": "Percentage of State Area Burnt"}
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Percentage of State Area Burnt",
+      "type": "quantitative",
+      "scale": {
+        "type": "linear",
+        "domain": [0, 2, 5, 6, 20], 
+        "range": ["#ffffb2", "#ffb94c", "#ff7518", "#e63600", "#7f0000"]
+       }
+    },
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "State"},
+      {"field": "Percentage of State Area Burnt", "type": "quantitative", "title": "Percentage of State Area Burnt"}
+    ]
   }
+}
