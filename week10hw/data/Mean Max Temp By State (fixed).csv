@@ -1,0 +1,1345 @@
+﻿Year,Month,Temperature,State
+2010,January,31.1,Queensland
+2010,January,24.1,Tasmania
+2010,January,27,Victoria
+2010,January,24.4,New South Wales
+2010,January,31.5,Northern Territory
+2010,January,35,Western Australia
+2010,January,29.6,South Australia
+2010,January,31.8,Australian Capital Territory
+2011,January,29.6,Queensland
+2011,January,22.5,Tasmania
+2011,January,26.2,Victoria
+2011,January,24.7,New South Wales
+2011,January,31.1,Northern Territory
+2011,January,33.7,Western Australia
+2011,January,29.1,South Australia
+2011,January,28.8,Australian Capital Territory
+2012,January,28.7,Queensland
+2012,January,23.7,Tasmania
+2012,January,27.4,Victoria
+2012,January,23.9,New South Wales
+2012,January,32.6,Northern Territory
+2012,January,33.4,Western Australia
+2012,January,30,South Australia
+2012,January,27.5,Australian Capital Territory
+2013,January,30.5,Queensland
+2013,January,23.9,Tasmania
+2013,January,28,Victoria
+2013,January,24.5,New South Wales
+2013,January,32.9,Northern Territory
+2013,January,32.3,Western Australia
+2013,January,28.5,South Australia
+2013,January,32.3,Australian Capital Territory
+2014,January,30.7,Queensland
+2014,January,23.5,Tasmania
+2014,January,28.9,Victoria
+2014,January,24,New South Wales
+2014,January,31.7,Northern Territory
+2014,January,32.9,Western Australia
+2014,January,30.7,South Australia
+2014,January,31.6,Australian Capital Territory
+2015,January,30.5,Queensland
+2015,January,21.5,Tasmania
+2015,January,26.9,Victoria
+2015,January,24.8,New South Wales
+2015,January,31.2,Northern Territory
+2015,January,33.8,Western Australia
+2015,January,27.6,South Australia
+2015,January,27.4,Australian Capital Territory
+2016,January,30.4,Queensland
+2016,January,22.5,Tasmania
+2016,January,27.2,Victoria
+2016,January,24.8,New South Wales
+2016,January,33,Northern Territory
+2016,January,32.4,Western Australia
+2016,January,29.1,South Australia
+2016,January,28.5,Australian Capital Territory
+2017,January,31.4,Queensland
+2017,January,23,Tasmania
+2017,January,27.6,Victoria
+2017,January,26.5,New South Wales
+2017,January,32,Northern Territory
+2017,January,32,Western Australia
+2017,January,29.1,South Australia
+2017,January,32.8,Australian Capital Territory
+2018,January,31.8,Queensland
+2018,January,24.4,Tasmania
+2018,January,28.3,Victoria
+2018,January,24.5,New South Wales
+2018,January,31.8,Northern Territory
+2018,January,31.7,Western Australia
+2018,January,30.3,South Australia
+2018,January,31.6,Australian Capital Territory
+2019,January,31.9,Queensland
+2019,January,25.9,Tasmania
+2019,January,30.4,Victoria
+2019,January,26,New South Wales
+2019,January,32.7,Northern Territory
+2019,January,31.3,Western Australia
+2019,January,31.2,South Australia
+2019,January,34.5,Australian Capital Territory
+2020,January,30.9,Queensland
+2020,January,24.3,Tasmania
+2020,January,27.8,Victoria
+2020,January,25.3,New South Wales
+2020,January,32.8,Northern Territory
+2020,January,31.6,Western Australia
+2020,January,27.6,South Australia
+2020,January,31.7,Australian Capital Territory
+2021,January,29.9,Queensland
+2021,January,22.5,Tasmania
+2021,January,26.1,Victoria
+2021,January,23.7,New South Wales
+2021,January,31.8,Northern Territory
+2021,January,33.6,Western Australia
+2021,January,27.9,South Australia
+2021,January,28.1,Australian Capital Territory
+2022,January,29.7,Queensland
+2022,January,22.1,Tasmania
+2022,January,30,Victoria
+2022,January,24.6,New South Wales
+2022,January,32.6,Northern Territory
+2022,January,34.6,Western Australia
+2022,January,28,South Australia
+2022,January,26.9,Australian Capital Territory
+2023,January,30,Queensland
+2023,January,23.5,Tasmania
+2023,January,26.9,Victoria
+2023,January,23.8,New South Wales
+2023,January,31.8,Northern Territory
+2023,January,33.7,Western Australia
+2023,January,29.1,South Australia
+2023,January,27.6,Australian Capital Territory
+2010,February,30.1,Queensland
+2010,February,23.1,Tasmania
+2010,February,27.8,Victoria
+2010,February,25.1,New South Wales
+2010,February,32.6,Northern Territory
+2010,February,33.1,Western Australia
+2010,February,29.7,South Australia
+2010,February,27.5,Australian Capital Territory
+2011,February,30.6,Queensland
+2011,February,20.7,Tasmania
+2011,February,24.2,Victoria
+2011,February,26.5,New South Wales
+2011,February,30.5,Northern Territory
+2011,February,34.9,Western Australia
+2011,February,27.6,South Australia
+2011,February,26.7,Australian Capital Territory
+2012,February,29.8,Queensland
+2012,February,22.5,Tasmania
+2012,February,26.9,Victoria
+2012,February,23.4,New South Wales
+2012,February,32.4,Northern Territory
+2012,February,31.3,Western Australia
+2012,February,26.7,South Australia
+2012,February,25,Australian Capital Territory
+2013,February,28.5,Queensland
+2013,February,23.5,Tasmania
+2013,February,29,Victoria
+2013,February,23.7,New South Wales
+2013,February,32.6,Northern Territory
+2013,February,34.6,Western Australia
+2013,February,28.7,South Australia
+2013,February,27.4,Australian Capital Territory
+2014,February,30.2,Queensland
+2014,February,23.1,Tasmania
+2014,February,28.8,Victoria
+2014,February,23.4,New South Wales
+2014,February,31.3,Northern Territory
+2014,February,33.7,Western Australia
+2014,February,28.2,South Australia
+2014,February,29.4,Australian Capital Territory
+2015,February,29.3,Queensland
+2015,February,22.5,Tasmania
+2015,February,28,Victoria
+2015,February,24.4,New South Wales
+2015,February,32.6,Northern Territory
+2015,February,33.1,Western Australia
+2015,February,31,South Australia
+2015,February,28.1,Australian Capital Territory
+2016,February,32,Queensland
+2016,February,23.8,Tasmania
+2016,February,27,Victoria
+2016,February,25.2,New South Wales
+2016,February,33.5,Northern Territory
+2016,February,32.8,Western Australia
+2016,February,27.2,South Australia
+2016,February,29.3,Australian Capital Territory
+2017,February,32.5,Queensland
+2017,February,22.9,Tasmania
+2017,February,26.7,Victoria
+2017,February,25.7,New South Wales
+2017,February,31.6,Northern Territory
+2017,February,30.3,Western Australia
+2017,February,27.2,South Australia
+2017,February,30.1,Australian Capital Territory
+2018,February,29.7,Queensland
+2018,February,21.7,Tasmania
+2018,February,27.9,Victoria
+2018,February,24.5,New South Wales
+2018,February,31.6,Northern Territory
+2018,February,30.8,Western Australia
+2018,February,29,South Australia
+2018,February,29,Australian Capital Territory
+2019,February,31.6,Queensland
+2019,February,22.9,Tasmania
+2019,February,27.7,Victoria
+2019,February,25,New South Wales
+2019,February,33.1,Northern Territory
+2019,February,32.2,Western Australia
+2019,February,28.2,South Australia
+2019,February,29.1,Australian Capital Territory
+2020,February,29.9,Queensland
+2020,February,20.8,Tasmania
+2020,February,24.9,Victoria
+2020,February,24.8,New South Wales
+2020,February,33.4,Northern Territory
+2020,February,33,Western Australia
+2020,February,25.5,South Australia
+2020,February,27.7,Australian Capital Territory
+2021,February,30,Queensland
+2021,February,22.5,Tasmania
+2021,February,25.3,Victoria
+2021,February,23.8,New South Wales
+2021,February,31.4,Northern Territory
+2021,February,30.8,Western Australia
+2021,February,26.3,South Australia
+2021,February,26.1,Australian Capital Territory
+2022,February,29.1,Queensland
+2022,February,22.5,Tasmania
+2022,February,26.3,Victoria
+2022,February,25.1,New South Wales
+2022,February,31.7,Northern Territory
+2022,February,35.1,Western Australia
+2022,February,27.2,South Australia
+2022,February,26.2,Australian Capital Territory
+2023,February,30.9,Queensland
+2023,February,23.2,Tasmania
+2023,February,25.9,Victoria
+2023,February,24.9,New South Wales
+2023,February,31.4,Northern Territory
+2023,February,33,Western Australia
+2023,February,28.1,South Australia
+2023,February,27.7,Australian Capital Territory
+2010,March,28.2,Queensland
+2010,March,22.7,Tasmania
+2010,March,25,Victoria
+2010,March,23.8,New South Wales
+2010,March,33.3,Northern Territory
+2010,March,31.1,Western Australia
+2010,March,26.7,South Australia
+2010,March,24.6,Australian Capital Territory
+2011,March,28.7,Queensland
+2011,March,20,Tasmania
+2011,March,22.5,Victoria
+2011,March,24.1,New South Wales
+2011,March,31,Northern Territory
+2011,March,32.8,Western Australia
+2011,March,24.3,South Australia
+2011,March,23.3,Australian Capital Territory
+2012,March,28.2,Queensland
+2012,March,20.7,Tasmania
+2012,March,22.6,Victoria
+2012,March,22.7,New South Wales
+2012,March,31.8,Northern Territory
+2012,March,31.6,Western Australia
+2012,March,25.3,South Australia
+2012,March,22.1,Australian Capital Territory
+2013,March,28.4,Queensland
+2013,March,22.9,Tasmania
+2013,March,26.9,Victoria
+2013,March,24.1,New South Wales
+2013,March,32,Northern Territory
+2013,March,28.4,Western Australia
+2013,March,27.3,South Australia
+2013,March,25.7,Australian Capital Territory
+2014,March,29.2,Queensland
+2014,March,22,Tasmania
+2014,March,25.5,Victoria
+2014,March,24.1,New South Wales
+2014,March,33,Northern Territory
+2014,March,30.8,Western Australia
+2014,March,26,South Australia
+2014,March,24.2,Australian Capital Territory
+2015,March,30.2,Queensland
+2015,March,20.3,Tasmania
+2015,March,23.8,Victoria
+2015,March,24.4,New South Wales
+2015,March,32.7,Northern Territory
+2015,March,29.9,Western Australia
+2015,March,24.1,South Australia
+2015,March,26.3,Australian Capital Territory
+2016,March,29.9,Queensland
+2016,March,21.6,Tasmania
+2016,March,25.7,Victoria
+2016,March,24.1,New South Wales
+2016,March,33.7,Northern Territory
+2016,March,30,Western Australia
+2016,March,27.1,South Australia
+2016,March,27.7,Australian Capital Territory
+2017,March,30.6,Queensland
+2017,March,22.4,Tasmania
+2017,March,27.8,Victoria
+2017,March,24,New South Wales
+2017,March,32.1,Northern Territory
+2017,March,28.3,Western Australia
+2017,March,27.8,South Australia
+2017,March,25.9,Australian Capital Territory
+2018,March,28.7,Queensland
+2018,March,21.4,Tasmania
+2018,March,25.8,Victoria
+2018,March,24.8,New South Wales
+2018,March,32.7,Northern Territory
+2018,March,30.5,Western Australia
+2018,March,26.3,South Australia
+2018,March,26.3,Australian Capital Territory
+2019,March,31.2,Queensland
+2019,March,21.5,Tasmania
+2019,March,26.4,Victoria
+2019,March,24.8,New South Wales
+2019,March,33.4,Northern Territory
+2019,March,31,Western Australia
+2019,March,25.6,South Australia
+2019,March,26,Australian Capital Territory
+2020,March,28.7,Queensland
+2020,March,20,Tasmania
+2020,March,22.9,Victoria
+2020,March,23.6,New South Wales
+2020,March,33.2,Northern Territory
+2020,March,30.3,Western Australia
+2020,March,24.9,South Australia
+2020,March,23.4,Australian Capital Territory
+2021,March,28.5,Queensland
+2021,March,21.2,Tasmania
+2021,March,22.5,Victoria
+2021,March,23.7,New South Wales
+2021,March,32.3,Northern Territory
+2021,March,30.4,Western Australia
+2021,March,25,South Australia
+2021,March,23,Australian Capital Territory
+2022,March,29.2,Queensland
+2022,March,21.5,Tasmania
+2022,March,24.6,Victoria
+2022,March,23.9,New South Wales
+2022,March,33.4,Northern Territory
+2022,March,30.5,Western Australia
+2022,March,26.3,South Australia
+2022,March,24,Australian Capital Territory
+2023,March,30.8,Queensland
+2023,March,20.7,Tasmania
+2023,March,23.8,Victoria
+2023,March,25.8,New South Wales
+2023,March,32.5,Northern Territory
+2023,March,30.6,Western Australia
+2023,March,24.1,South Australia
+2023,March,25.5,Australian Capital Territory
+2010,April,27.3,Queensland
+2010,April,19.3,Tasmania
+2010,April,22.1,Victoria
+2010,April,22.8,New South Wales
+2010,April,32.5,Northern Territory
+2010,April,25.7,Western Australia
+2010,April,23.2,South Australia
+2010,April,21.1,Australian Capital Territory
+2011,April,26.2,Queensland
+2011,April,18.1,Tasmania
+2011,April,20.3,Victoria
+2011,April,21.9,New South Wales
+2011,April,31.7,Northern Territory
+2011,April,27.9,Western Australia
+2011,April,22.3,South Australia
+2011,April,19.6,Australian Capital Territory
+2012,April,26.5,Queensland
+2012,April,19.6,Tasmania
+2012,April,21,Victoria
+2012,April,22,New South Wales
+2012,April,32.8,Northern Territory
+2012,April,26.4,Western Australia
+2012,April,23.6,South Australia
+2012,April,20.2,Australian Capital Territory
+2013,April,26.7,Queensland
+2013,April,17.9,Tasmania
+2013,April,20.5,Victoria
+2013,April,22.5,New South Wales
+2013,April,33.7,Northern Territory
+2013,April,28.7,Western Australia
+2013,April,23.2,South Australia
+2013,April,22.1,Australian Capital Territory
+2014,April,28.2,Queensland
+2014,April,18.3,Tasmania
+2014,April,20.1,Victoria
+2014,April,22.6,New South Wales
+2014,April,33,Northern Territory
+2014,April,26.9,Western Australia
+2014,April,22.8,South Australia
+2014,April,19.7,Australian Capital Territory
+2015,April,26.1,Queensland
+2015,April,16.7,Tasmania
+2015,April,19.4,Victoria
+2015,April,21.2,New South Wales
+2015,April,33.2,Northern Territory
+2015,April,25.7,Western Australia
+2015,April,20.1,South Australia
+2015,April,19.4,Australian Capital Territory
+2016,April,28.8,Queensland
+2016,April,20.4,Tasmania
+2016,April,22.7,Victoria
+2016,April,23.2,New South Wales
+2016,April,34.5,Northern Territory
+2016,April,25,Western Australia
+2016,April,23.8,South Australia
+2016,April,23.9,Australian Capital Territory
+2017,April,26.2,Queensland
+2017,April,19.2,Tasmania
+2017,April,20.6,Victoria
+2017,April,22.2,New South Wales
+2017,April,32,Northern Territory
+2017,April,27.5,Western Australia
+2017,April,22.8,South Australia
+2017,April,19.9,Australian Capital Territory
+2018,April,27.8,Queensland
+2018,April,18.8,Tasmania
+2018,April,22.9,Victoria
+2018,April,24,New South Wales
+2018,April,33.8,Northern Territory
+2018,April,26.5,Western Australia
+2018,April,25.3,South Australia
+2018,April,25,Australian Capital Territory
+2019,April,26.9,Queensland
+2019,April,19.6,Tasmania
+2019,April,22.6,Victoria
+2019,April,23.1,New South Wales
+2019,April,33.1,Northern Territory
+2019,April,26,Western Australia
+2019,April,24,South Australia
+2019,April,22.6,Australian Capital Territory
+2020,April,28.7,Queensland
+2020,April,17.3,Tasmania
+2020,April,18.8,Victoria
+2020,April,23,New South Wales
+2020,April,33.7,Northern Territory
+2020,April,26.9,Western Australia
+2020,April,21.1,South Australia
+2020,April,18.9,Australian Capital Territory
+2021,April,26.3,Queensland
+2021,April,18.5,Tasmania
+2021,April,20.6,Victoria
+2021,April,22.4,New South Wales
+2021,April,33,Northern Territory
+2021,April,27.3,Western Australia
+2021,April,22.5,South Australia
+2021,April,20.8,Australian Capital Territory
+2022,April,27,Queensland
+2022,April,19,Tasmania
+2022,April,20.7,Victoria
+2022,April,22.6,New South Wales
+2022,April,33.9,Northern Territory
+2022,April,26,Western Australia
+2022,April,23.4,South Australia
+2022,April,20,Australian Capital Territory
+2023,April,27.3,Queensland
+2023,April,19,Tasmania
+2023,April,20.3,Victoria
+2023,April,21.6,New South Wales
+2023,April,32.7,Northern Territory
+2023,April,24,Western Australia
+2023,April,21.8,South Australia
+2023,April,19.6,Australian Capital Territory
+2010,May,23.8,Queensland
+2010,May,15.6,Tasmania
+2010,May,17.3,Victoria
+2010,May,20.2,New South Wales
+2010,May,32.3,Northern Territory
+2010,May,22.2,Western Australia
+2010,May,19.4,South Australia
+2010,May,16.6,Australian Capital Territory
+2011,May,23.4,Queensland
+2011,May,14.9,Tasmania
+2011,May,15.2,Victoria
+2011,May,18.4,New South Wales
+2011,May,30.8,Northern Territory
+2011,May,23.6,Western Australia
+2011,May,17.9,South Australia
+2011,May,15.8,Australian Capital Territory
+2012,May,24,Queensland
+2012,May,15.4,Tasmania
+2012,May,15.7,Victoria
+2012,May,19.3,New South Wales
+2012,May,31.1,Northern Territory
+2012,May,23,Western Australia
+2012,May,18,South Australia
+2012,May,15.6,Australian Capital Territory
+2013,May,23.3,Queensland
+2013,May,16,Tasmania
+2013,May,17.7,Victoria
+2013,May,19.8,New South Wales
+2013,May,32.7,Northern Territory
+2013,May,21.7,Western Australia
+2013,May,20.6,South Australia
+2013,May,17.4,Australian Capital Territory
+2014,May,25.1,Queensland
+2014,May,15.6,Tasmania
+2014,May,18.4,Victoria
+2014,May,21.5,New South Wales
+2014,May,32.7,Northern Territory
+2014,May,21.3,Western Australia
+2014,May,20.4,South Australia
+2014,May,17.6,Australian Capital Territory
+2015,May,24.5,Queensland
+2015,May,14.6,Tasmania
+2015,May,16.9,Victoria
+2015,May,19.5,New South Wales
+2015,May,32.6,Northern Territory
+2015,May,21.4,Western Australia
+2015,May,18.1,South Australia
+2015,May,16.3,Australian Capital Territory
+2016,May,27,Queensland
+2016,May,15.6,Tasmania
+2016,May,18.1,Victoria
+2016,May,21.9,New South Wales
+2016,May,33.5,Northern Territory
+2016,May,20.8,Western Australia
+2016,May,19.6,South Australia
+2016,May,17.4,Australian Capital Territory
+2017,May,24.7,Queensland
+2017,May,14.7,Tasmania
+2017,May,16.6,Victoria
+2017,May,20.1,New South Wales
+2017,May,32.9,Northern Territory
+2017,May,22.9,Western Australia
+2017,May,19,South Australia
+2017,May,16.4,Australian Capital Territory
+2018,May,24.8,Queensland
+2018,May,15.8,Tasmania
+2018,May,17.2,Victoria
+2018,May,20.1,New South Wales
+2018,May,32.7,Northern Territory
+2018,May,24.2,Western Australia
+2018,May,18.6,South Australia
+2018,May,17.5,Australian Capital Territory
+2019,May,24.9,Queensland
+2019,May,15.8,Tasmania
+2019,May,17.5,Victoria
+2019,May,21.1,New South Wales
+2019,May,32.3,Northern Territory
+2019,May,22.5,Western Australia
+2019,May,18.5,South Australia
+2019,May,16.6,Australian Capital Territory
+2020,May,24,Queensland
+2020,May,15.5,Tasmania
+2020,May,15.5,Victoria
+2020,May,19.6,New South Wales
+2020,May,32.1,Northern Territory
+2020,May,22.1,Western Australia
+2020,May,17.4,South Australia
+2020,May,15,Australian Capital Territory
+2021,May,23.9,Queensland
+2021,May,15.7,Tasmania
+2021,May,17.3,Victoria
+2021,May,19.6,New South Wales
+2021,May,32.7,Northern Territory
+2021,May,22.4,Western Australia
+2021,May,19.1,South Australia
+2021,May,16.4,Australian Capital Territory
+2022,May,23.8,Queensland
+2022,May,15.1,Tasmania
+2022,May,16.4,Victoria
+2022,May,20.4,New South Wales
+2022,May,33.6,Northern Territory
+2022,May,22.2,Western Australia
+2022,May,18.7,South Australia
+2022,May,16.1,Australian Capital Territory
+2023,May,24,Queensland
+2023,May,15.5,Tasmania
+2023,May,16.2,Victoria
+2023,May,19.4,New South Wales
+2023,May,32.2,Northern Territory
+2023,May,22.4,Western Australia
+2023,May,17.5,South Australia
+2023,May,15,Australian Capital Territory
+2010,June,23.8,Queensland
+2010,June,15.6,Tasmania
+2010,June,17.3,Victoria
+2010,June,20.2,New South Wales
+2010,June,32.3,Northern Territory
+2010,June,22.2,Western Australia
+2010,June,19.4,South Australia
+2010,June,16.6,Australian Capital Territory
+2011,June,23.4,Queensland
+2011,June,14.9,Tasmania
+2011,June,15.2,Victoria
+2011,June,18.4,New South Wales
+2011,June,30.8,Northern Territory
+2011,June,23.6,Western Australia
+2011,June,17.9,South Australia
+2011,June,15.8,Australian Capital Territory
+2012,June,24,Queensland
+2012,June,15.4,Tasmania
+2012,June,15.7,Victoria
+2012,June,19.3,New South Wales
+2012,June,31.1,Northern Territory
+2012,June,23,Western Australia
+2012,June,18,South Australia
+2012,June,15.6,Australian Capital Territory
+2013,June,23.3,Queensland
+2013,June,16,Tasmania
+2013,June,17.7,Victoria
+2013,June,19.8,New South Wales
+2013,June,32.7,Northern Territory
+2013,June,21.7,Western Australia
+2013,June,20.6,South Australia
+2013,June,17.4,Australian Capital Territory
+2014,June,25.1,Queensland
+2014,June,15.6,Tasmania
+2014,June,18.4,Victoria
+2014,June,21.5,New South Wales
+2014,June,32.7,Northern Territory
+2014,June,21.3,Western Australia
+2014,June,20.4,South Australia
+2014,June,17.6,Australian Capital Territory
+2015,June,24.5,Queensland
+2015,June,14.6,Tasmania
+2015,June,16.9,Victoria
+2015,June,19.5,New South Wales
+2015,June,32.6,Northern Territory
+2015,June,21.4,Western Australia
+2015,June,18.1,South Australia
+2015,June,16.3,Australian Capital Territory
+2016,June,27,Queensland
+2016,June,15.6,Tasmania
+2016,June,18.1,Victoria
+2016,June,21.9,New South Wales
+2016,June,33.5,Northern Territory
+2016,June,20.8,Western Australia
+2016,June,19.6,South Australia
+2016,June,17.4,Australian Capital Territory
+2017,June,24.7,Queensland
+2017,June,14.7,Tasmania
+2017,June,16.6,Victoria
+2017,June,20.1,New South Wales
+2017,June,32.9,Northern Territory
+2017,June,22.9,Western Australia
+2017,June,19,South Australia
+2017,June,16.4,Australian Capital Territory
+2018,June,24.8,Queensland
+2018,June,15.8,Tasmania
+2018,June,17.2,Victoria
+2018,June,20.1,New South Wales
+2018,June,32.7,Northern Territory
+2018,June,24.2,Western Australia
+2018,June,18.6,South Australia
+2018,June,17.5,Australian Capital Territory
+2019,June,24.9,Queensland
+2019,June,15.8,Tasmania
+2019,June,17.5,Victoria
+2019,June,21.1,New South Wales
+2019,June,32.3,Northern Territory
+2019,June,22.5,Western Australia
+2019,June,18.5,South Australia
+2019,June,16.6,Australian Capital Territory
+2020,June,24,Queensland
+2020,June,15.5,Tasmania
+2020,June,15.5,Victoria
+2020,June,19.6,New South Wales
+2020,June,32.1,Northern Territory
+2020,June,22.1,Western Australia
+2020,June,17.4,South Australia
+2020,June,15,Australian Capital Territory
+2021,June,23.9,Queensland
+2021,June,15.7,Tasmania
+2021,June,17.3,Victoria
+2021,June,19.6,New South Wales
+2021,June,32.7,Northern Territory
+2021,June,22.4,Western Australia
+2021,June,19.1,South Australia
+2021,June,16.4,Australian Capital Territory
+2022,June,23.8,Queensland
+2022,June,15.1,Tasmania
+2022,June,16.4,Victoria
+2022,June,20.4,New South Wales
+2022,June,33.6,Northern Territory
+2022,June,22.2,Western Australia
+2022,June,18.7,South Australia
+2022,June,16.1,Australian Capital Territory
+2023,June,24,Queensland
+2023,June,15.5,Tasmania
+2023,June,16.2,Victoria
+2023,June,19.4,New South Wales
+2023,June,32.2,Northern Territory
+2023,June,22.4,Western Australia
+2023,June,17.5,South Australia
+2023,June,15,Australian Capital Territory
+2010,July,21.7,Queensland
+2010,July,13.9,Tasmania
+2010,July,13.3,Victoria
+2010,July,16.4,New South Wales
+2010,July,32.6,Northern Territory
+2010,July,18.3,Western Australia
+2010,July,15,South Australia
+2010,July,12.8,Australian Capital Territory
+2011,July,21.5,Queensland
+2011,July,12,Tasmania
+2011,July,13.5,Victoria
+2011,July,16.6,New South Wales
+2011,July,31.2,Northern Territory
+2011,July,18.4,Western Australia
+2011,July,15.5,South Australia
+2011,July,12.3,Australian Capital Territory
+2012,July,21.4,Queensland
+2012,July,12.9,Tasmania
+2012,July,13.6,Victoria
+2012,July,16.5,New South Wales
+2012,July,30.6,Northern Territory
+2012,July,19.2,Western Australia
+2012,July,15.1,South Australia
+2012,July,13,Australian Capital Territory
+2013,July,21.8,Queensland
+2013,July,13.7,Tasmania
+2013,July,14.7,Victoria
+2013,July,18.3,New South Wales
+2013,July,31.5,Northern Territory
+2013,July,18.7,Western Australia
+2013,July,15.9,South Australia
+2013,July,13.4,Australian Capital Territory
+2014,July,22.4,Queensland
+2014,July,13.4,Tasmania
+2014,July,13.5,Victoria
+2014,July,17.8,New South Wales
+2014,July,31.1,Northern Territory
+2014,July,18.4,Western Australia
+2014,July,15.1,South Australia
+2014,July,12.2,Australian Capital Territory
+2015,July,21.1,Queensland
+2015,July,12.1,Tasmania
+2015,July,12.7,Victoria
+2015,July,16.4,New South Wales
+2015,July,31.3,Northern Territory
+2015,July,18.7,Western Australia
+2015,July,14.5,South Australia
+2015,July,11.5,Australian Capital Territory
+2016,July,22.5,Queensland
+2016,July,13.2,Tasmania
+2016,July,13.8,Victoria
+2016,July,17.9,New South Wales
+2016,July,31.5,Northern Territory
+2016,July,17.7,Western Australia
+2016,July,15.1,South Australia
+2016,July,12.7,Australian Capital Territory
+2017,July,22.9,Queensland
+2017,July,12.2,Tasmania
+2017,July,14,Victoria
+2017,July,18.2,New South Wales
+2017,July,32.6,Northern Territory
+2017,July,18.1,Western Australia
+2017,July,16.2,South Australia
+2017,July,12.9,Australian Capital Territory
+2018,July,23.2,Queensland
+2018,July,13.4,Tasmania
+2018,July,14.1,Victoria
+2018,July,18.7,New South Wales
+2018,July,31.9,Northern Territory
+2018,July,19.1,Western Australia
+2018,July,15.9,South Australia
+2018,July,13.3,Australian Capital Territory
+2019,July,23.5,Queensland
+2019,July,13.5,Tasmania
+2019,July,14.3,Victoria
+2019,July,18.4,New South Wales
+2019,July,31.3,Northern Territory
+2019,July,19.3,Western Australia
+2019,July,16.1,South Australia
+2019,July,13.7,Australian Capital Territory
+2020,July,22.1,Queensland
+2020,July,12.5,Tasmania
+2020,July,13.2,Victoria
+2020,July,17.6,New South Wales
+2020,July,32,Northern Territory
+2020,July,19.4,Western Australia
+2020,July,15.1,South Australia
+2020,July,13.2,Australian Capital Territory
+2021,July,21.7,Queensland
+2021,July,13,Tasmania
+2021,July,13.5,Victoria
+2021,July,17.2,New South Wales
+2021,July,32.3,Northern Territory
+2021,July,18.3,Western Australia
+2021,July,15.2,South Australia
+2021,July,11.9,Australian Capital Territory
+2022,July,19.9,Queensland
+2022,July,12.8,Tasmania
+2022,July,13.4,Victoria
+2022,July,16.8,New South Wales
+2022,July,29.8,Northern Territory
+2022,July,19,Western Australia
+2022,July,14.8,South Australia
+2022,July,12.7,Australian Capital Territory
+2023,July,22.6,Queensland
+2023,July,14.7,Tasmania
+2023,July,14.8,Victoria
+2023,July,18.7,New South Wales
+2023,July,31.6,Northern Territory
+2023,July,18.7,Western Australia
+2023,July,15.5,South Australia
+2023,July,14.5,Australian Capital Territory
+2010,August,21.7,Queensland
+2010,August,13.9,Tasmania
+2010,August,13.3,Victoria
+2010,August,16.4,New South Wales
+2010,August,32.6,Northern Territory
+2010,August,18.3,Western Australia
+2010,August,15,South Australia
+2010,August,12.8,Australian Capital Territory
+2011,August,21.5,Queensland
+2011,August,12,Tasmania
+2011,August,13.5,Victoria
+2011,August,16.6,New South Wales
+2011,August,31.2,Northern Territory
+2011,August,18.4,Western Australia
+2011,August,15.5,South Australia
+2011,August,12.3,Australian Capital Territory
+2012,August,21.4,Queensland
+2012,August,12.9,Tasmania
+2012,August,13.6,Victoria
+2012,August,16.5,New South Wales
+2012,August,30.6,Northern Territory
+2012,August,19.2,Western Australia
+2012,August,15.1,South Australia
+2012,August,13,Australian Capital Territory
+2013,August,21.8,Queensland
+2013,August,13.7,Tasmania
+2013,August,14.7,Victoria
+2013,August,18.3,New South Wales
+2013,August,31.5,Northern Territory
+2013,August,18.7,Western Australia
+2013,August,15.9,South Australia
+2013,August,13.4,Australian Capital Territory
+2014,August,22.4,Queensland
+2014,August,13.4,Tasmania
+2014,August,13.5,Victoria
+2014,August,17.8,New South Wales
+2014,August,31.1,Northern Territory
+2014,August,18.4,Western Australia
+2014,August,15.1,South Australia
+2014,August,12.2,Australian Capital Territory
+2015,August,21.1,Queensland
+2015,August,12.1,Tasmania
+2015,August,12.7,Victoria
+2015,August,16.4,New South Wales
+2015,August,31.3,Northern Territory
+2015,August,18.7,Western Australia
+2015,August,14.5,South Australia
+2015,August,11.5,Australian Capital Territory
+2016,August,22.5,Queensland
+2016,August,13.2,Tasmania
+2016,August,13.8,Victoria
+2016,August,17.9,New South Wales
+2016,August,31.5,Northern Territory
+2016,August,17.7,Western Australia
+2016,August,15.1,South Australia
+2016,August,12.7,Australian Capital Territory
+2017,August,22.9,Queensland
+2017,August,12.2,Tasmania
+2017,August,14,Victoria
+2017,August,18.2,New South Wales
+2017,August,32.6,Northern Territory
+2017,August,18.1,Western Australia
+2017,August,16.2,South Australia
+2017,August,12.9,Australian Capital Territory
+2018,August,23.2,Queensland
+2018,August,13.4,Tasmania
+2018,August,14.1,Victoria
+2018,August,18.7,New South Wales
+2018,August,31.9,Northern Territory
+2018,August,19.1,Western Australia
+2018,August,15.9,South Australia
+2018,August,13.3,Australian Capital Territory
+2019,August,23.5,Queensland
+2019,August,13.5,Tasmania
+2019,August,14.3,Victoria
+2019,August,18.4,New South Wales
+2019,August,31.3,Northern Territory
+2019,August,19.3,Western Australia
+2019,August,16.1,South Australia
+2019,August,13.7,Australian Capital Territory
+2020,August,22.1,Queensland
+2020,August,12.5,Tasmania
+2020,August,13.2,Victoria
+2020,August,17.6,New South Wales
+2020,August,32,Northern Territory
+2020,August,19.4,Western Australia
+2020,August,15.1,South Australia
+2020,August,13.2,Australian Capital Territory
+2021,August,21.7,Queensland
+2021,August,13,Tasmania
+2021,August,13.5,Victoria
+2021,August,17.2,New South Wales
+2021,August,32.3,Northern Territory
+2021,August,18.3,Western Australia
+2021,August,15.2,South Australia
+2021,August,11.9,Australian Capital Territory
+2022,August,19.9,Queensland
+2022,August,12.8,Tasmania
+2022,August,13.4,Victoria
+2022,August,16.8,New South Wales
+2022,August,29.8,Northern Territory
+2022,August,19,Western Australia
+2022,August,14.8,South Australia
+2022,August,12.7,Australian Capital Territory
+2023,August,22.6,Queensland
+2023,August,14.7,Tasmania
+2023,August,14.8,Victoria
+2023,August,18.7,New South Wales
+2023,August,31.6,Northern Territory
+2023,August,18.7,Western Australia
+2023,August,15.5,South Australia
+2023,August,14.5,Australian Capital Territory
+2010,September,24.8,Queensland
+2010,September,14.8,Tasmania
+2010,September,15.1,Victoria
+2010,September,19.4,New South Wales
+2010,September,34,Northern Territory
+2010,September,22.1,Western Australia
+2010,September,16.1,South Australia
+2010,September,16.3,Australian Capital Territory
+2011,September,24.9,Queensland
+2011,September,16.3,Tasmania
+2011,September,18.4,Victoria
+2011,September,19.9,New South Wales
+2011,September,32.8,Northern Territory
+2011,September,20.5,Western Australia
+2011,September,20.5,South Australia
+2011,September,18.2,Australian Capital Territory
+2012,September,25.5,Queensland
+2012,September,15.9,Tasmania
+2012,September,17.7,Victoria
+2012,September,20.1,New South Wales
+2012,September,33.7,Northern Territory
+2012,September,21.4,Western Australia
+2012,September,19.1,South Australia
+2012,September,18,Australian Capital Territory
+2013,September,27.2,Queensland
+2013,September,16.7,Tasmania
+2013,September,19.1,Victoria
+2013,September,22.3,New South Wales
+2013,September,33.3,Northern Territory
+2013,September,20.1,Western Australia
+2013,September,21.3,South Australia
+2013,September,19.9,Australian Capital Territory
+2014,September,25.2,Queensland
+2014,September,17.9,Tasmania
+2014,September,18.1,Victoria
+2014,September,19.4,New South Wales
+2014,September,33.2,Northern Territory
+2014,September,22.1,Western Australia
+2014,September,20.1,South Australia
+2014,September,17.9,Australian Capital Territory
+2015,September,24.7,Queensland
+2015,September,16.2,Tasmania
+2015,September,17.3,Victoria
+2015,September,18.8,New South Wales
+2015,September,33.2,Northern Territory
+2015,September,22.8,Western Australia
+2015,September,18.5,South Australia
+2015,September,17.4,Australian Capital Territory
+2016,September,24.9,Queensland
+2016,September,16.2,Tasmania
+2016,September,16.2,Victoria
+2016,September,19.4,New South Wales
+2016,September,33.2,Northern Territory
+2016,September,18.5,Western Australia
+2016,September,16.9,South Australia
+2016,September,15.8,Australian Capital Territory
+2017,September,27.3,Queensland
+2017,September,15.1,Tasmania
+2017,September,17.7,Victoria
+2017,September,21.4,New South Wales
+2017,September,34.1,Northern Territory
+2017,September,20.8,Western Australia
+2017,September,18.7,South Australia
+2017,September,18.1,Australian Capital Territory
+2018,September,24.9,Queensland
+2018,September,16.3,Tasmania
+2018,September,17.4,Victoria
+2018,September,18.6,New South Wales
+2018,September,33.6,Northern Territory
+2018,September,20.6,Western Australia
+2018,September,18.3,South Australia
+2018,September,18,Australian Capital Territory
+2019,September,27.4,Queensland
+2019,September,16.7,Tasmania
+2019,September,17.5,Victoria
+2019,September,19.9,New South Wales
+2019,September,32.7,Northern Territory
+2019,September,23.1,Western Australia
+2019,September,18.8,South Australia
+2019,September,18.8,Australian Capital Territory
+2020,September,25.9,Queensland
+2020,September,16.8,Tasmania
+2020,September,17.7,Victoria
+2020,September,20.5,New South Wales
+2020,September,33.9,Northern Territory
+2020,September,21.7,Western Australia
+2020,September,20.5,South Australia
+2020,September,17.6,Australian Capital Territory
+2021,September,25.2,Queensland
+2021,September,15.8,Tasmania
+2021,September,17.9,Victoria
+2021,September,20.1,New South Wales
+2021,September,34.1,Northern Territory
+2021,September,21.6,Western Australia
+2021,September,19.2,South Australia
+2021,September,17.3,Australian Capital Territory
+2022,September,24.3,Queensland
+2022,September,15.3,Tasmania
+2022,September,16.1,Victoria
+2022,September,18.5,New South Wales
+2022,September,33.8,Northern Territory
+2022,September,21.2,Western Australia
+2022,September,16.9,South Australia
+2022,September,16.2,Australian Capital Territory
+2023,September,25.9,Queensland
+2023,September,17.5,Tasmania
+2023,September,20.7,Victoria
+2023,September,21.2,New South Wales
+2023,September,33.7,Northern Territory
+2023,September,22.7,Western Australia
+2023,September,21.1,South Australia
+2023,September,20.9,Australian Capital Territory
+2010,October,24.8,Queensland
+2010,October,18.5,Tasmania
+2010,October,19.4,Victoria
+2010,October,19.9,New South Wales
+2010,October,33.7,Northern Territory
+2010,October,25.1,Western Australia
+2010,October,20.5,South Australia
+2010,October,19.6,Australian Capital Territory
+2010,October,25.6,Queensland
+2011,October,17.1,Tasmania
+2011,October,19.8,Victoria
+2011,October,19.5,New South Wales
+2011,October,33.3,Northern Territory
+2011,October,24.4,Western Australia
+2011,October,21.3,South Australia
+2011,October,20.6,Australian Capital Territory
+2011,October,27.3,Queensland
+2012,October,17.5,Tasmania
+2012,October,20.3,Victoria
+2012,October,20.5,New South Wales
+2012,October,33.9,Northern Territory
+2012,October,24.9,Western Australia
+2012,October,21.9,South Australia
+2012,October,20.8,Australian Capital Territory
+2012,October,28.8,Queensland
+2013,October,17.7,Tasmania
+2013,October,18.9,Victoria
+2013,October,23.1,New South Wales
+2013,October,34.1,Northern Territory
+2013,October,24.1,Western Australia
+2013,October,21.8,South Australia
+2013,October,21.9,Australian Capital Territory
+2013,October,27.8,Queensland
+2014,October,18.1,Tasmania
+2014,October,22.1,Victoria
+2014,October,21.5,New South Wales
+2014,October,34.3,Northern Territory
+2014,October,24.9,Western Australia
+2014,October,24.5,South Australia
+2014,October,22.5,Australian Capital Territory
+2014,October,27.1,Queensland
+2015,October,19.7,Tasmania
+2015,October,25.5,Victoria
+2015,October,22.3,New South Wales
+2015,October,33.8,Northern Territory
+2015,October,27,Western Australia
+2015,October,25.4,South Australia
+2015,October,24.8,Australian Capital Territory
+2015,October,27.1,Queensland
+2016,October,17.2,Tasmania
+2016,October,18.5,Victoria
+2016,October,21.5,New South Wales
+2016,October,33.8,Northern Territory
+2016,October,22,Western Australia
+2016,October,20.3,South Australia
+2016,October,18.5,Australian Capital Territory
+2016,October,27,Queensland
+2017,October,20,Tasmania
+2017,October,21.6,Victoria
+2017,October,21.3,New South Wales
+2017,October,33.9,Northern Territory
+2017,October,23.2,Western Australia
+2017,October,22.9,South Australia
+2017,October,23.2,Australian Capital Territory
+2017,October,26.1,Queensland
+2018,October,18.3,Tasmania
+2018,October,21.8,Victoria
+2018,October,19.2,New South Wales
+2018,October,34.2,Northern Territory
+2018,October,23.8,Western Australia
+2018,October,23,South Australia
+2018,October,22.8,Australian Capital Territory
+2018,October,26.8,Queensland
+2019,October,18.8,Tasmania
+2019,October,21.6,Victoria
+2019,October,21.7,New South Wales
+2019,October,34.3,Northern Territory
+2019,October,24.7,Western Australia
+2019,October,23.4,South Australia
+2019,October,23.6,Australian Capital Territory
+2019,October,27.8,Queensland
+2020,October,16,Tasmania
+2020,October,19,Victoria
+2020,October,20.9,New South Wales
+2020,October,33.6,Northern Territory
+2020,October,25.6,Western Australia
+2020,October,21.4,South Australia
+2020,October,20.3,Australian Capital Territory
+2020,October,28.3,Queensland
+2021,October,16.5,Tasmania
+2021,October,19.2,Victoria
+2021,October,21,New South Wales
+2021,October,34.5,Northern Territory
+2021,October,21.8,Western Australia
+2021,October,20.6,South Australia
+2021,October,19.2,Australian Capital Territory
+2021,October,25.8,Queensland
+2022,October,16.9,Tasmania
+2022,October,18.9,Victoria
+2022,October,20.4,New South Wales
+2022,October,33.8,Northern Territory
+2022,October,22.3,Western Australia
+2022,October,20.2,South Australia
+2022,October,18.3,Australian Capital Territory
+2022,October,27.5,Queensland
+2023,October,18,Tasmania
+2023,October,19.9,Victoria
+2023,October,21.9,New South Wales
+2023,October,34.6,Northern Territory
+2023,October,27.3,Western Australia
+2023,October,20.9,South Australia
+2023,October,21.9,Australian Capital Territory
+2010,November,26.6,Queensland
+2010,November,19,Tasmania
+2010,November,22,Victoria
+2010,November,20.8,New South Wales
+2010,November,33,Northern Territory
+2010,November,30.3,Western Australia
+2010,November,23,South Australia
+2010,November,22.5,Australian Capital Territory
+2010,November,28.8,Queensland
+2011,November,20.7,Tasmania
+2011,November,23.4,Victoria
+2011,November,23.1,New South Wales
+2011,November,32.9,Northern Territory
+2011,November,26.1,Western Australia
+2011,November,25.5,South Australia
+2011,November,25.4,Australian Capital Territory
+2011,November,28.2,Queensland
+2012,November,20.4,Tasmania
+2012,November,23.3,Victoria
+2012,November,21.2,New South Wales
+2012,November,33.9,Northern Territory
+2012,November,26.1,Western Australia
+2012,November,26.6,South Australia
+2012,November,25.4,Australian Capital Territory
+2012,November,28.5,Queensland
+2013,November,16.9,Tasmania
+2013,November,21.1,Victoria
+2013,November,21.7,New South Wales
+2013,November,32.9,Northern Territory
+2013,November,29.5,Western Australia
+2013,November,24.2,South Australia
+2013,November,23.8,Australian Capital Territory
+2013,November,29.6,Queensland
+2014,November,19.4,Tasmania
+2014,November,23.9,Victoria
+2014,November,22.7,New South Wales
+2014,November,34.3,Northern Territory
+2014,November,26.4,Western Australia
+2014,November,25.3,South Australia
+2014,November,27.9,Australian Capital Territory
+2014,November,29.2,Queensland
+2015,November,20.5,Tasmania
+2015,November,23.6,Victoria
+2015,November,23.8,New South Wales
+2015,November,34.7,Northern Territory
+2015,November,29,Western Australia
+2015,November,25.7,South Australia
+2015,November,25.3,Australian Capital Territory
+2015,November,30.2,Queensland
+2016,November,18.6,Tasmania
+2016,November,21.2,Victoria
+2016,November,22.6,New South Wales
+2016,November,33.7,Northern Territory
+2016,November,28.3,Western Australia
+2016,November,22.7,South Australia
+2016,November,24.8,Australian Capital Territory
+2016,November,27,Queensland
+2017,November,22.4,Tasmania
+2017,November,26.6,Victoria
+2017,November,21.2,New South Wales
+2017,November,33.9,Northern Territory
+2017,November,30,Western Australia
+2017,November,27,South Australia
+2017,November,24.3,Australian Capital Territory
+2017,November,29.8,Queensland
+2018,November,19.5,Tasmania
+2018,November,22.5,Victoria
+2018,November,22.7,New South Wales
+2018,November,34,Northern Territory
+2018,November,25.7,Western Australia
+2018,November,23.3,South Australia
+2018,November,24.5,Australian Capital Territory
+2018,November,30.6,Queensland
+2019,November,20.2,Tasmania
+2019,November,22.4,Victoria
+2019,November,23.3,New South Wales
+2019,November,34.5,Northern Territory
+2019,November,29.8,Western Australia
+2019,November,22.7,South Australia
+2019,November,26.8,Australian Capital Territory
+2019,November,28.9,Queensland
+2020,November,22.3,Tasmania
+2020,November,24.8,Victoria
+2020,November,22.8,New South Wales
+2020,November,35,Northern Territory
+2020,November,25,Western Australia
+2020,November,28,South Australia
+2020,November,25.1,Australian Capital Territory
+2020,November,27.3,Queensland
+2021,November,18.3,Tasmania
+2021,November,20.3,Victoria
+2021,November,20.3,New South Wales
+2021,November,34.7,Northern Territory
+2021,November,26.8,Western Australia
+2021,November,22.9,South Australia
+2021,November,20.2,Australian Capital Territory
+2021,November,28,Queensland
+2022,November,18.5,Tasmania
+2022,November,20.1,Victoria
+2022,November,21.2,New South Wales
+2022,November,34.1,Northern Territory
+2022,November,26.1,Western Australia
+2022,November,22.2,South Australia
+2022,November,20.7,Australian Capital Territory
+2022,November,27.9,Queensland
+2023,November,19,Tasmania
+2023,November,22.4,Victoria
+2023,November,21.7,New South Wales
+2023,November,34.4,Northern Territory
+2023,November,31.5,Western Australia
+2023,November,23.5,South Australia
+2023,November,25.5,Australian Capital Territory
+2010,December,27.8,Queensland
+2010,December,20.3,Tasmania
+2010,December,24.1,Victoria
+2010,December,23.3,New South Wales
+2010,December,31.9,Northern Territory
+2010,December,30.5,Western Australia
+2010,December,25.9,South Australia
+2010,December,25,Australian Capital Territory
+2010,December,27.6,Queensland
+2011,December,20.3,Tasmania
+2011,December,24.4,Victoria
+2011,December,20.6,New South Wales
+2011,December,33.3,Northern Territory
+2011,December,30.6,Western Australia
+2011,December,26.9,South Australia
+2011,December,23.6,Australian Capital Territory
+2011,December,30.5,Queensland
+2012,December,22.5,Tasmania
+2012,December,26,Victoria
+2012,December,23.2,New South Wales
+2012,December,34.2,Northern Territory
+2012,December,31.4,Western Australia
+2012,December,27,South Australia
+2012,December,27.7,Australian Capital Territory
+2012,December,29.7,Queensland
+2013,December,21.2,Tasmania
+2013,December,24.7,Victoria
+2013,December,23.4,New South Wales
+2013,December,32.6,Northern Territory
+2013,December,31.1,Western Australia
+2013,December,27.1,South Australia
+2013,December,28.5,Australian Capital Territory
+2013,December,29.9,Queensland
+2014,December,20.3,Tasmania
+2014,December,24.9,Victoria
+2014,December,23.3,New South Wales
+2014,December,34,Northern Territory
+2014,December,29.7,Western Australia
+2014,December,25,South Australia
+2014,December,27.7,Australian Capital Territory
+2014,December,29.2,Queensland
+2015,December,22.5,Tasmania
+2015,December,29.1,Victoria
+2015,December,23.1,New South Wales
+2015,December,32.4,Northern Territory
+2015,December,30.1,Western Australia
+2015,December,30.3,South Australia
+2015,December,29.3,Australian Capital Territory
+2015,December,30.1,Queensland
+2016,December,22,Tasmania
+2016,December,26.3,Victoria
+2016,December,25,New South Wales
+2016,December,32.6,Northern Territory
+2016,December,29.3,Western Australia
+2016,December,26.6,South Australia
+2016,December,28.7,Australian Capital Territory
+2016,December,30.7,Queensland
+2017,December,22.5,Tasmania
+2017,December,25.6,Victoria
+2017,December,24.3,New South Wales
+2017,December,33.9,Northern Territory
+2017,December,30.6,Western Australia
+2017,December,26.1,South Australia
+2017,December,27.8,Australian Capital Territory
+2017,December,30.1,Queensland
+2018,December,22.3,Tasmania
+2018,December,26.1,Victoria
+2018,December,23.5,New South Wales
+2018,December,34,Northern Territory
+2018,December,30.3,Western Australia
+2018,December,28.6,South Australia
+2018,December,29.3,Australian Capital Territory
+2018,December,31.9,Queensland
+2019,December,21.8,Tasmania
+2019,December,26.4,Victoria
+2019,December,23.4,New South Wales
+2019,December,35.3,Northern Territory
+2019,December,33.9,Western Australia
+2019,December,29.1,South Australia
+2019,December,31.7,Australian Capital Territory
+2019,December,29.9,Queensland
+2020,December,20.7,Tasmania
+2020,December,23.8,Victoria
+2020,December,23.5,New South Wales
+2020,December,32.6,Northern Territory
+2020,December,32.4,Western Australia
+2020,December,25.5,South Australia
+2020,December,25.4,Australian Capital Territory
+2020,December,29.5,Queensland
+2021,December,21.1,Tasmania
+2021,December,24.7,Victoria
+2021,December,23.1,New South Wales
+2021,December,33.5,Northern Territory
+2021,December,32.5,Western Australia
+2021,December,26.2,South Australia
+2021,December,25.2,Australian Capital Territory
+2021,December,28.1,Queensland
+2022,December,19.8,Tasmania
+2022,December,24.1,Victoria
+2022,December,21.6,New South Wales
+2022,December,33.1,Northern Territory
+2022,December,30.4,Western Australia
+2022,December,26.5,South Australia
+2022,December,23.9,Australian Capital Territory
+2022,December,31.6,Queensland
+2023,December,21.3,Tasmania
+2023,December,24,Victoria
+2023,December,25.1,New South Wales
+2023,December,34.1,Northern Territory
+2023,December,32.5,Western Australia
+2023,December,25,South Australia
+2023,December,27.1,Australian Capital Territory
