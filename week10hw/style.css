@@ -1,0 +1,23 @@
+/* Selectors in HTML */
+
+h1 {
+    font-family: 'Fondamento';
+}
+
+p {
+    font-family: 'Roboto';
+}
+
+p {
+    color: red;
+}
+
+/* Id Selector */
+#idselect{
+    color: green;
+}
+
+/* Class Selector example */
+#class-select{
+    color: blue;
+}
